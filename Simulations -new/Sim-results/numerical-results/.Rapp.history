@@ -1,0 +1,2 @@
+load("/Users/wangyc/Dropbox/Projects/Pairwise Comparison (Abhinav & Yichen)/Experiments/Simulations -new/Sim-results/numerical-results/rel_ham_vs_eps.RData")
+load("/Users/wangyc/Dropbox/Projects/Pairwise Comparison (Abhinav & Yichen)/Experiments/Simulations -new/Sim-results/numerical-results/rel_ham_vs_n.RData")
