@@ -1,1 +1,0 @@
-log(c(runif(n - k, min =  0.2 , max = 0.7), rep(1, k)))
