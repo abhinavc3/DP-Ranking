@@ -9,8 +9,11 @@ For reproducing experiment results in the paper, you may follow the steps below.
 Code in `/Edge-DP/script/` produces raw numerical results. These numerical results are then manually collected in four subfolders, each corresponding to one experiment. The notebook `/Edge-DP/edge_plot.ipynb` provides functions for plotting numerical results.
 
 Experiment 1: Run experiment 1 section of Experiment-1-2-3.R script, the results get saved in Simulation-Results/accuracy-vs-n folder. Manually transfer them to `/Edge-DP/accuracy-vs-n/*.csv`. Run Section 1 of `/Edge-DP/edge_plot.ipynb` to plot them. Each subsection corresponds to one subfigure of Figure 1.
+
 Experiment 2: Run experiment 2 section of Experiment-1-2-3.R script, the results get saved in Simulation-Results/accuracy-vs-p folder. Manually transfer them to  `/Edge-DP/accuracy-vs-p/*.csv`. Run Section 2 of `/Edge-DP/edge_plot.ipynb` to plot them. Each subsection corresponds to one subfigure of Figure 2.
+
 Experiment 3: Run experiment 3 section of Experiment-1-2-3.R script, the results get saved in Simulation-Results/accuracy-vs-epsilon folder. Manually transfer them to  `/Edge-DP/accuracy-vs-epsilon/*.csv`. Run Section 3 of `/Edge-DP/edge_plot.ipynb` to plot them. Each subsection corresponds to one subfigure of Figure 3.
+
 Experiment 4: Run Experiment-4.R script, the results get saved in Simulation-Results/one-shot-comparison folder. Manually convert them to csv and transfer them to `/Edge-DP/one-shot-comparison/*.csv`. Sections 1 and 3 of `/Edge-DP/edge_plot.ipynb` can be modified to produce the two subfigures of Figure 4.
 
 
